@@ -6,7 +6,7 @@ Website portfolio CV cá nhân giới thiệu bản thân, kỹ năng, dự án 
 
 ## Demo
 
-https://daoduythuong.github.io/A3_ThietKeWed/
+[https://daoduythuong.github.io/A3_ThietKeWed/](https://daoduythuong.github.io/ThietKeWed_A3_BaiTapLon/)
 
 ## Tính năng
 
@@ -16,7 +16,7 @@ https://daoduythuong.github.io/A3_ThietKeWed/
 - Có thông tin liên hệ và form lời nhắn với xác thực trường bắt buộc, email, độ dài họ tên và lời nhắn.
 
 ## Cấu trức thư mục
-
+```text
 A3_2/
 ├── index.html
 ├── README.md
@@ -24,7 +24,7 @@ A3_2/
 ├── assets/
 └── css/
     └── style.css
-
+```
 ## Khai báo AI
 
 Xem [docs/AI_LOG.md](docs/AI_LOG.md).
