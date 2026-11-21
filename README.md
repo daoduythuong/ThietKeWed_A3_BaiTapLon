@@ -6,7 +6,7 @@ Website portfolio CV cá nhân giới thiệu bản thân, kỹ năng, dự án 
 
 ## Demo
 
-[https://daoduythuong.github.io/A3_ThietKeWed/](https://daoduythuong.github.io/ThietKeWed_A3_BaiTapLon/)
+https://daoduythuong.github.io/ThietKeWed_A3_BaiTapLon/
 
 ## Tính năng
 
